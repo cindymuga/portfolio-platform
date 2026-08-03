@@ -1,0 +1,35 @@
+
+{
+"recipes": [
+{
+"id": "1",
+"title": "Classic Pancakes",
+"description": "Fluffy, golden and delicious pancakes made from scratch. Perfect and ideal for breakfast!",
+"image":  "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=500",
+"techStack": "Easy • 15 mins"
+},
+{
+"id": "2",
+"title": "Creamy Pasta Alfredo",
+"description": "Rich parmesan cream sauce tossed with Itallian pasta.",
+"image": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?w=500",
+"techStack": "Medium • 25 mins"
+},
+{
+"id": "3",
+"title": "Avocado Toast",
+"description": "Crispy and fresh bread topped with mashed avocado, chili flakes, and scrambled eggs.",
+"image":  "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=500",
+"techStack": "Easy • 10 mins"
+},
+{
+"id": "4",
+"title": "Chicken Curry",
+"description": "Tender chicken simmered in a rich, flavorful aromatic curry sauce served with rice.",
+"image":  "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500",
+"techStack": "Medium • 35 mins"
+}
+]
+}
+
+
